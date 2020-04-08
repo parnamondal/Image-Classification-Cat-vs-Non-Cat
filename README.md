@@ -21,7 +21,7 @@ Displaying Cost of the model after 2400 iterations and a relatively better accur
 
 Well , it seems that our 4-layer neural network has better performance (74%) than our 2-layer neural network (62%) on the same test set.
 
-### The result of deep neural network on a set of images are :
+### The result of deep neural network applied on a set of images are :
 
 ![Alt Text](images/imag5.png)
 
