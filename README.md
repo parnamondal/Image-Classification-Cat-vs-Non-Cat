@@ -7,25 +7,25 @@ Image classification is a supervised learning problem: define a set of target cl
 
 ### _In this project we have used two different deep learning methodology to learn the model. They are :_
 
-### * Two-layer neural network :
+###  Two-layer neural network :
 
 Displaying Cost of the model after 2300 iterations and the accuracy on the prediction train set and prediction test set.
 
 ![Alt Text](images/imag3.png)
 
-### *L-layer neural network :
+### L-layer neural network :
 
 Displaying Cost of the model after 2400 iterations and a relatively better accuracy on the prediction train set and prediction test set.
 
 ![Alt Text](images/imag4.png)
 
-Well , it seems that our 4-layer neural network has better performance (74%) than our 2-layer neural network (64%) on the same test set.
+Well , it seems that our 4-layer neural network has better performance (74%) than our 2-layer neural network (62%) on the same test set.
 
 ### The result of deep neural network on a set of images are :
 
 ![Alt Text](images/imag5.png)
 
-_Also_
+_Also ,_
 
 ![Alt Text](images/imag_f.png)
 
